@@ -1,2 +1,2 @@
 # samply-desktop-releases
-Public repository for distributing the Samply desktop application 
+Public repository for testing releases of the Samply desktop application 
